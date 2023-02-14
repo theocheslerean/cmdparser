@@ -8,10 +8,6 @@
 #include <memory>
 #include <initializer_list>
 
-/*
-    Fa o chestie sa dai o lista cu tipul argumentelor si apoi sa creezi o map cu exsact tipurile alea la pozitile date
-*/
-
 namespace CommandLineParser {
 
 class ValueObject;
